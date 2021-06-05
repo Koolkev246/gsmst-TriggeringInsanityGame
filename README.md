@@ -28,20 +28,18 @@ GSMST Junior Engineering Award 2019-2020 <br />
 # Downloads
 **Instructions: (for Google Drive Downloads)** <br />
 1.) Click below to download the game as a .gfar file.  <br />
-3.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer. <br />
-4.) Run the .gfar file that you just downloaded. <br />
-5.) Enjoy playing! <br />
+2.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer. <br />
+3.) Run the .gfar file that you just downloaded. <br />
+4.) Enjoy playing! <br />
 <br />
 *Google Drive Download:* <br />
 <a title="*Release v1.0.0*" href="https://drive.google.com/uc?export=download&id=137uPne1VZ_L47HRAYZCkDnS0QJ_ny6sI">Click Here to Download! </a><br />
 <br />
 **Instructions: (for GitHub releases)** <br />
-1.) Click below to download the game files. <br />
-2.) Extract the files into a folder. <br />
-3.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot </a> is installed on your computer. <br />
-4.) Inside "Game Files", run/open "project.greenfoot" using Greenfoot. <br />
-5.) Enjoy playing! <br />
-<br />
+1.) Click below to download the game as a .gfar file.
+2.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer.
+3.) Run the .gfar file that you just downloaded.
+4.) Enjoy playing!
 *GitHub Releases:* <br />
 <a title="*Release v1.0.0*" href="https://github.com/Koolkev246/gsmst-TriggeringInsanityGame/releases/">Click Here to Download! </a>
 
