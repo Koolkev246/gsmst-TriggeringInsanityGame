@@ -33,7 +33,7 @@ GSMST Junior Engineering Award 2019-2020 <br />
 5.) Enjoy playing! <br />
 <br />
 *MEGA.NZ Download:* <br />
-<a title="*Release v1*" href="https://rebrand.ly/TriggeringInsanity">Click Here to Download! </a><br />
+<a title="*Release v1.0.0*" href="https://drive.google.com/uc?export=download&id=137uPne1VZ_L47HRAYZCkDnS0QJ_ny6sI">Click Here to Download! </a><br />
 <br />
 **Instructions: (for GitHub releases)** <br />
 1.) Click below to download the game files. <br />
@@ -43,7 +43,7 @@ GSMST Junior Engineering Award 2019-2020 <br />
 5.) Enjoy playing! <br />
 <br />
 *GitHub Releases:* <br />
-<a title="*Release v1*" href="https://github.com/Koolkev246/gsmst-TriggeringInsanityGame/releases/">Click Here to Download! </a>
+<a title="*Release v1.0.0*" href="https://github.com/Koolkev246/gsmst-TriggeringInsanityGame/releases/">Click Here to Download! </a>
 
 ** **
 ## Other Stuff
