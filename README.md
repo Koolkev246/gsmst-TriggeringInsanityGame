@@ -26,13 +26,13 @@ GSMST Junior Engineering Award 2019-2020 <br />
 
 ** **
 # Downloads
-**Instructions: (for MEGA.NZ Downloads)** <br />
+**Instructions: (for Google Drive Downloads)** <br />
 1.) Click below to download the game as a .gfar file.  <br />
 3.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer. <br />
 4.) Run the .gfar file that you just downloaded. <br />
 5.) Enjoy playing! <br />
 <br />
-*MEGA.NZ Download:* <br />
+*Google Drive Download:* <br />
 <a title="*Release v1.0.0*" href="https://drive.google.com/uc?export=download&id=137uPne1VZ_L47HRAYZCkDnS0QJ_ny6sI">Click Here to Download! </a><br />
 <br />
 **Instructions: (for GitHub releases)** <br />
