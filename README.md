@@ -36,10 +36,10 @@ GSMST Junior Engineering Award 2019-2020 <br />
 <a title="*Release v1.0.0*" href="https://drive.google.com/uc?export=download&id=137uPne1VZ_L47HRAYZCkDnS0QJ_ny6sI">Click Here to Download! </a><br />
 <br />
 **Instructions: (for GitHub releases)** <br />
-1.) Click below to download the game as a .gfar file.
-2.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer.
-3.) Run the .gfar file that you just downloaded.
-4.) Enjoy playing!
+1.) Click below to download the game as a .gfar file.<br />
+2.) Make sure that <a href="https://www.greenfoot.org/download">Greenfoot</a> is installed on your computer.<br />
+3.) Run the .gfar file that you just downloaded.<br />
+4.) Enjoy playing!<br />
 *GitHub Releases:* <br />
 <a title="*Release v1.0.0*" href="https://github.com/Koolkev246/gsmst-TriggeringInsanityGame/releases/">Click Here to Download! </a>
 
