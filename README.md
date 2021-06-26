@@ -16,9 +16,9 @@ The files in this repository contain a video game made using Greenfoot/Java for 
 
 ** **
 # Video Showcase (scuffed)
-Click on the preview below to watch the video. <br />
+Click on the preview below to watch the video. (Video currently doesn't work because the channel I uploaded the video on got terminated.<br />
 [![Kevin's Triggering Insanity | CSA Video Game Project | Greenfoot | CLOSED SOURCE!](https://img.youtube.com/vi/p0EdEy51Bz0/0.jpg)](https://www.youtube.com/watch?v=p0EdEy51Bz0)
-
+<br> todo: add screenshots and redo the video <br />
 ** **
 # Awards/Accomplishments
 Perfect Score (100) on my project. <br />
