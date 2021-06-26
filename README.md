@@ -12,7 +12,7 @@
 
 ** **
 # About
-The files in this repository contain a video game made using Greenfoot/Java for Kevin's CSA Project at GSMST during the 2019-2020 junior school year. My CSA Teacher was Mr. Kevin Hare. My code is intentioned to be CLOSED SOURCE. Please read and abide by the LICENSE and scroll down below for gameplay preview and showcase in a video format. The game is technically incomplete because there should be a lot more levels created, but the game is sufficient for now. 
+The files in this repository contain a video game made using Greenfoot/Java for Kevin's CSA Project at GSMST during the 2019-2020 junior school year. My CSA Teacher was Mr. Kevin Hare. My code is intentioned to be CLOSED SOURCE, but I guess if you can understand what I've done to get the game working, I guess it's technically open source lol. Good luck trying to figure out what everything does! The game is technically incomplete because there should be a lot more levels created, but the game is sufficient for now. 
 
 ** **
 # Video Showcase (scuffed)
